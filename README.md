@@ -2,7 +2,7 @@
 
 __Here's an image of my map:__
 
-<img src= "C:\Users\Owner\Pictures\img1lab458.png">
+<img src= "img/lab2_img.png">
 
 __Description/Anaylsis:__
 
